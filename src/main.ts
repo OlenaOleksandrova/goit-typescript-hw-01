@@ -6,6 +6,9 @@ import './basic/4';
 import './basic/5';
 import './basic/6';
 import './basic/7';
+import './generics/1'
+import './generics/2'
+import './generics/3'
 // import typescriptLogo from './typescript.svg'
 // import viteLogo from '/vite.svg'
 // import { setupCounter } from './counter.ts'
